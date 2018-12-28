@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phone Auth2</string>
+    <string name="add_textbox_hint">Enter Phone Number</string>
+    <string name="add_button_text">Send</string>
+    <string name="service_title">Phone Authentication </string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
